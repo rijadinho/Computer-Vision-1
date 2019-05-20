@@ -1,2 +1,3 @@
-# TU-Graz
-All the work that has been done during studying!
+# Computer Vision 1
+task1a
+task1b
